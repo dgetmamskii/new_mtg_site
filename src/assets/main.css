@@ -1,0 +1,8 @@
+body {
+    background-image: url('/src/assets/background.png');
+}
+
+@font-face {
+    font-family: "Anticva";
+    src: url('/src/assets/fonts/Anticva.ttf');
+}
